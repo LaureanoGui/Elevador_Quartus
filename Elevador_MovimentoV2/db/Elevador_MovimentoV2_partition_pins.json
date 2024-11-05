@@ -1,0 +1,45 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "SAS[2]",
+					"strict" : false
+				},
+				{
+					"name" : "SAS[1]",
+					"strict" : false
+				},
+				{
+					"name" : "SAS[0]",
+					"strict" : false
+				},
+				{
+					"name" : "SD[2]",
+					"strict" : false
+				},
+				{
+					"name" : "SD[1]",
+					"strict" : false
+				},
+				{
+					"name" : "SD[0]",
+					"strict" : false
+				},
+				{
+					"name" : "EN",
+					"strict" : false
+				},
+				{
+					"name" : "ACT",
+					"strict" : false
+				},
+				{
+					"name" : "CLK",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
